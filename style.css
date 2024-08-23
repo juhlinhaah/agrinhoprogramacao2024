@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: hsla(217, 19%, 32%, 0.136);
+    background-color: hwb(319 26% 62% / 0.233);
     color: white;
     display: flex;
     justify-content: space-around;
