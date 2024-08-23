@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: rgba(0, 0, 0, 0.539);
+    background-color: rgba(192, 132, 132, 0.539);
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
